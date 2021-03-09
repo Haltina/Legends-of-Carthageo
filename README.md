@@ -1,2 +1,2 @@
-# Legends-of-Carhageo
+# Legends-of-Carthageo
 Python game for classroom project
